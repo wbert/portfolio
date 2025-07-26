@@ -6,6 +6,7 @@ services:
     container_name: portfolio-nginx
     restart: unless-stopped
     networks: [appnet]
+    ports: ["81:81"]
 
 networks:
   appnet:
