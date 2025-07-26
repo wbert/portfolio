@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Laravel",
+    "logo": "https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
+  },
+  {
+    "name": "FastAPI",
+    "logo": "https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
+  },
+  {
+    "name": "Svelte",
+    "logo": "https://cdn.worldvectorlogo.com/logos/svelte-1.svg"
+  },
+  {
+    "name": "Python",
+    "logo": "https://cdn.worldvectorlogo.com/logos/python-5.svg"
+  },
+  {
+    "name": "Lua",
+    "logo": "https://cdn.worldvectorlogo.com/logos/lua-5.svg"
+  },
+  {
+    "name": "PHP",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+  },
+  {
+    "name": "R",
+    "logo": "https://camo.githubusercontent.com/21b60c93f74a3eddd8330231e66f6678c42d6bfb36f3c623d8242d3349f3a61f/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f6c6f676f2f526c6f676f2e737667"
+  },
+  {
+    "name": "Dart",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+  },
+  {
+    "name": "Typescript",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  },
+  {
+    "name": "Javascript",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  },
+  {
+    "name": "HTML",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  },
+  {
+    "name": "CSS",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  },
+  {
+    "name": "React.js",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  },
+  {
+    "name": "Next.js",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+  },
+  {
+    "name": "Flutter",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+  },
+  {
+    "name": "Bash",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+  },
+  {
+    "name": "Mysql",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+  },
+  {
+    "name": "Postgres",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+  },
+  {
+    "name": "MSSQL",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+  },
+  {
+    "name": "Firebase",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+  },
+  {
+    "name": "Supabase",
+    "logo": "https://camo.githubusercontent.com/6738036cf283e82de376da01bfc26bba369d45560f56d3d2c8350e4d86f91cef/68747470733a2f2f63662e617070647261672e636f6d2f64617368626f6172642d6f70656e766d2d636c6f2d6232643432632f75706c6f6164732f73757061626173652d544169592e706e67"
+  },
+  {
+    "name": "Neovim",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"
+  },
+  {
+    "name": "Tmux",
+    "logo": "https://camo.githubusercontent.com/65e03b28ad137fbef2302979b9f4da7f6b7ed61c66d952920b59d8270eba5d42/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f542f746d75782d6c6f676f2d453731353233333838412d7365656b6c6f676f2e636f6d2e706e67"
+  },
+  {
+    "name": "Git",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+  },
+  {
+    "name": "BitBucket",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"
+  }
+]

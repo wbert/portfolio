@@ -1,0 +1,62 @@
+[
+  {
+    "company": "University of Mindanao",
+    "role": "Lecturer - Part Time",
+    "dates": "Aug 2024 - Present",
+    "description": "Lectures programming language like java, python. Also teaching theories of machine learning and software development",
+    "techStack": [
+      "Java",
+      "Python",
+      "REST",
+      "FastAPI",
+      "Neovim",
+      "Tmux"
+    ]
+  },
+  {
+    "company": "Infosoft Studio",
+    "role": "Software Developer",
+    "dates": "Jan 2024 - Aug 2024",
+    "description": "Contributed to the development of an records archiving platform, barangay profiling system, legistlative tracking system. Assisted in API development and database design.",
+    "techStack": [
+      "ASP.Net",
+      "PostgreSQL",
+      "REST",
+      "Vue.js",
+      "Bash",
+      "Neovim",
+      "Tmux"
+    ]
+  },
+  {
+    "company": "Media One Software Solutions",
+    "role": "Software Developer Intern",
+    "dates": "June 2023 - Jul 2023",
+    "description": "Contributed to the development of an Internal Permit to work checklist system. Assisted in API development and database design.",
+    "techStack": [
+      "React.js",
+      "Laravel",
+      "REST",
+      "MySql",
+      "Tmux",
+      "Neovim",
+      "Tmux"
+    ]
+  },
+  {
+    "company": "Vinta Yearbook (University of Mindanao Yearbook Publication)",
+    "role": "Software Developer",
+    "dates": "Oct 2023 - Aug 2024",
+    "description": "Contributed to the development of an Landing page for yearbook promotions and data gathering, data cleaning, Legacy system maintainance, task automation using windows . Assisted in API development and database design.",
+    "techStack": [
+      "React.js",
+      "Firebase",
+      "MySql",
+      "Wix",
+      "Python",
+      "Tmux",
+      "Neovim",
+      "Tmux"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Vinta Yearbook",
+    "techStack": [
+      "React",
+      "Vite",
+      "Firebase",
+      "Million.js"
+    ],
+    "description": "A yearbook publication of University of Mindanao landing page and data gathering.",
+    "dateCompleted": "2024-02-05",
+    "link": "https://thevintayearbook.netlify.app"
+  },
+  {
+    "title": "Vinta Yearbook System",
+    "techStack": [
+      "React",
+      "Laravel",
+      "Inertia",
+      "PostgreSQL",
+      "Docker",
+      "Cloudflare",
+      "Nginx",
+      "Github Actions"
+    ],
+    "description": "A yearbook publication of University of Mindanao interal system for data gathering, photoshoot schedule, and payment management exclusive for University of Mindanao Students.",
+    "dateCompleted": "2025-07-01",
+    "link": "https://cemetery-playlist-fixtures-systems.trycloudflare.com/"
+  },
+  {
+    "title": "System Monitoring",
+    "techStack": [
+      "React",
+      "FastAPI",
+      "WebSockets",
+      "Docker",
+      "Cloudflare",
+      "Nginx",
+      "Github Actions"
+    ],
+    "description": "A system resource monitor provides real‑time insights into your home server’s performance—tracking CPU and RAM utilization, temperature sensors, running processes and services, and storage volume statistics—so you can swiftly diagnose issues and optimize system health.",
+    "dateCompleted": "2025-07-24",
+    "link": "https://guaranteed-centres-ensemble-tin.trycloudflare.com/"
+  },
+  {
+    "title": "PKCS12 Digital Signature",
+    "techStack": [
+      "Python",
+      "PDF",
+      "OpenSSL"
+    ],
+    "description": "Automated digital signature for PDF documents, embedding metadata that verifies if the signature is valid",
+    "dateCompleted": "2024-06-25",
+    "link": "https://github.com/wbert/PKCS12_Digital_Signature"
+  },
+  {
+    "title": "NBA Comparison App",
+    "techStack": [
+      "Python",
+      "Scikit Learn",
+      "Streamlit",
+      "Pandas",
+      "NumPy"
+    ],
+    "description": "Identify the top 3 players with the most similar performance profiles based on basketball stats.",
+    "dateCompleted": "2025-07-01",
+    "link": "https://wbert-nba-comparison-knn.streamlit.app"
+  },
+  {
+    "title": "DFE Store Web Scrapper",
+    "techStack": [
+      "Python",
+      "BeautifulSoup",
+      "CSV"
+    ],
+    "description": "Web scrapper tool for dfe store's product catalog",
+    "dateCompleted": "2025-05-08",
+    "link": "https://github.com/wbert/dfe-store-web-scrapper"
+  },
+  {
+    "title": "Titanic Survival Classification",
+    "techStack": [
+      "Python",
+      "Scikit Learn",
+      "Streamlit",
+      "Pandas",
+      "NumPy"
+    ],
+    "description": "Utilizing titanic dataset to classify chance of survival on titanic accident.",
+    "dateCompleted": "2025-06-30",
+    "link": "https://wbert-titanic-survival-classification.streamlit.app"
+  }
+]

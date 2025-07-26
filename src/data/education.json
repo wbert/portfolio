@@ -1,0 +1,23 @@
+[
+  {
+    "institution": "University of Mindanao",
+    "degree": "Bachelor of Science",
+    "fieldOfStudy": "Computer Science",
+    "dates": "2020 - 2024",
+    "description": "Focused on software development, algorithms, and data structures. Participated in Technoprenuershup and research projects. Graduated Magna Cum Laude. GPA 3.47"
+  },
+  {
+    "institution": "University of Mindanao",
+    "degree": "Senior High School",
+    "fieldOfStudy": "Science, Technology, Engineering, Mathematics (STEM) ",
+    "dates": "2018 - 2020",
+    "description": "Excelled in mathematics,science and technology. Graduated with honors."
+  },
+  {
+    "institution": "Jesus J. Soriano National High School",
+    "degree": "Junior High School",
+    "fieldOfStudy": " ",
+    "dates": "2014 - 2018",
+    "description": "Excelled in mathematics,science and technology. Graduated with honors."
+  }
+]
