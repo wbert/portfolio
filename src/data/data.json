@@ -8,6 +8,14 @@
     "logo": "https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
   },
   {
+    "name": "Node.js",
+    "logo": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+  },
+  {
+    "name": "Express.js",
+    "logo": "https://cdn.worldvectorlogo.com/logos/express-109.svg"
+  },
+  {
     "name": "Svelte",
     "logo": "https://cdn.worldvectorlogo.com/logos/svelte-1.svg"
   },
