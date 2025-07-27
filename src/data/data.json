@@ -32,10 +32,6 @@
     "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
   },
   {
-    "name": "R",
-    "logo": "https://camo.githubusercontent.com/21b60c93f74a3eddd8330231e66f6678c42d6bfb36f3c623d8242d3349f3a61f/68747470733a2f2f7777772e722d70726f6a6563742e6f72672f6c6f676f2f526c6f676f2e737667"
-  },
-  {
     "name": "Dart",
     "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
   },
@@ -80,10 +76,6 @@
     "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   },
   {
-    "name": "MSSQL",
-    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-  },
-  {
     "name": "Firebase",
     "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
   },
@@ -97,7 +89,7 @@
   },
   {
     "name": "Tmux",
-    "logo": "https://camo.githubusercontent.com/65e03b28ad137fbef2302979b9f4da7f6b7ed61c66d952920b59d8270eba5d42/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f542f746d75782d6c6f676f2d453731353233333838412d7365656b6c6f676f2e636f6d2e706e67"
+    "logo": "https://cdn.worldvectorlogo.com/logos/tmux.svg"
   },
   {
     "name": "Git",

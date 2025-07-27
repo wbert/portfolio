@@ -1,17 +1,5 @@
 [
   {
-    "title": "Vinta Yearbook",
-    "techStack": [
-      "React",
-      "Vite",
-      "Firebase",
-      "Million.js"
-    ],
-    "description": "A yearbook publication of University of Mindanao landing page and data gathering.",
-    "dateCompleted": "2024-02-05",
-    "link": "https://thevintayearbook.netlify.app"
-  },
-  {
     "title": "Vinta Yearbook System",
     "techStack": [
       "React",
@@ -41,6 +29,18 @@
     "description": "A system resource monitor provides real‑time insights into your home server’s performance—tracking CPU and RAM utilization, temperature sensors, running processes and services, and storage volume statistics—so you can swiftly diagnose issues and optimize system health.",
     "dateCompleted": "2025-07-24",
     "link": "https://sys-mon.wbert.xyz/"
+  },
+  {
+    "title": "Vinta Yearbook",
+    "techStack": [
+      "React",
+      "Vite",
+      "Firebase",
+      "Million.js"
+    ],
+    "description": "A yearbook publication of University of Mindanao landing page and data gathering.",
+    "dateCompleted": "2024-02-05",
+    "link": "https://thevintayearbook.netlify.app"
   },
   {
     "title": "PKCS12 Digital Signature",
